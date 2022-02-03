@@ -1,0 +1,7 @@
+kernel/drivers/xen/xen-pciback/xen-pciback.ko
+kernel/drivers/char/hw_random/arm_smccc_trng.ko
+kernel/drivers/char/hw_random/cavium-rng-vf.ko
+kernel/drivers/char/hw_random/rng-core.ko
+kernel/drivers/char/hw_random/cn10k-rng.ko
+kernel/drivers/char/hw_random/optee-rng.ko
+kernel/drivers/char/hw_random/cavium-rng.ko
